@@ -3,7 +3,7 @@
 ### 🌟 About Me
 
 - 🎓 I’m a 2nd-year programming student passionate about **web development**.
-- 🖥️ My toolbox includes **JavaScript**, **CSS**, **HTML**, **PHP**, and **TypeScript**.
+- 🖥️ My toolbox includes **JavaScript**, **CSS**, **HTML**, **PHP**, **TypeScript**, **Kotlin**, **JAVA**, **C#**.
 - 📸 I’m also a photographer who loves capturing unique moments and creative angles.
 - 🏀 When I'm not coding or behind the camera, you’ll find me on the basketball court or gaming (sports games are my jam!).
 - 🎮 A little banter and laughs keep my days bright, so don't hesitate to say hi!
