@@ -21,7 +21,6 @@
 ### 📫 How to reach me:
 
 - 📧 Email: **[sonyandersonkarisa@gmail.com](mailto\:sonyandersonkarisa@gmail.com)**
-- 🌐 Portfolio: https\://bezaphotography.myportfolio.com
 - 📷 Instagram (Photography): [https://www.instagram.com](https://www.instagram.com)
 
 ### 😄 Pronouns:
