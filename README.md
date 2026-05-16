@@ -1,32 +1,33 @@
-# 👋 Hi, I’m @SonyKarisa
+# Hi, I'm Sony Karisa
 
-### 🌟 About Me
+## About Me
 
-- 🎓 I’m a 3rd-year programming student passionate about **web development**.
-- 🖥️ My toolbox: JavaScript, CSS, HTML, PHP, TypeScript, Kotlin, Java, C#, ASP.NET, React, SQL, Node.js, Android.
-- 📸 I’m also a photographer who loves capturing unique moments and creative angles.
-- 🏀 When I'm not coding or behind the camera, you’ll find me on the basketball court or gaming (sports games are my jam!).
-- 🎮 A little banter and laughs keep my days bright, so don't hesitate to say hi!
+- I'm a graduating Computer Science student with a passion for web development and building full-stack applications.
+- My toolbox includes JavaScript, TypeScript, HTML, CSS, PHP, Kotlin, Java, C#, ASP.NET, React, Node.js, SQL, and Android development.
+- I completed two co-op terms as a developer at Indigenous Services Canada, where I built accessible bilingual web forms and dynamic PDF solutions for a public-facing site serving 25,000+ monthly visitors.
+- I am also a freelance photographer who enjoys capturing portraits and creative angles with both digital and film formats.
+- Outside of tech, you will find me playing competitive basketball or cycling — I completed my first 50 km ride in June 2025.
 
-### 🌱 I’m currently learning:
+## Currently Learning
 
-- Advanced **web programming techniques**.
-- How to blend **UI/UX design** into my web projects for top-notch user experiences.
+- Advanced cloud deployment and infrastructure, including containerization with Docker and CI/CD pipeline configuration.
+- UI/UX design principles and how to integrate them into web projects for better user experiences.
 
-### 💞️ I’m looking to collaborate on:
+## Looking to Collaborate On
 
-- Exciting **web development projects** or **open-source initiatives**.
-- **Product reviews**—I love exploring tech and sharing opinions that help others make decisions.
+- Web development projects, particularly full-stack applications using C#, Angular, or React.
+- Open-source initiatives related to accessibility or developer tooling.
 
-### 📫 How to reach me:
+## How to Reach Me
 
-- 📧 Email: **[sonyandersonkarisa@gmail.com](mailto\:sonyandersonkarisa@gmail.com)**
-- 📷 Instagram (Photography): [https://www.instagram.com](https://www.instagram.com)
+- Email: [sonyandersonkarisa@gmail.com](mailto:sonyandersonkarisa@gmail.com)
+- GitHub: [github.com/SonyKarisa](https://github.com/SonyKarisa)
+- LinkedIn: [linkedin.com/in/sony-karisa-786644214](https://www.linkedin.com/in/sony-karisa-786644214/)
 
-### 😄 Pronouns:
+## Pronouns
 
-- He/Him
+He/Him
 
-### ⚡ Fun Fact:
+## Fun Fact
 
-- I can spot the tiniest detail in a product review but will completely miss an open teammate on the basketball court—working on it! 😅
+I can debug a production issue across four projects but will completely miss an open teammate on the basketball court. Still working on the court vision.
